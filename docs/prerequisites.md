@@ -10,7 +10,9 @@ sidebar_position: 2
 ## Requirements
 
 - [ ] Python, version 3.9+.  (*This Verison of python will work For DEVELOP BRANCH of the bot*)
-- [ ] Python, version 3.10+. (*This version is required for the MASTER BRANCH of the bot*)
+- [ ] Python, version 3.10. (*This version is required for the MASTER BRANCH of the bot*)
+
+*Note:* Dont use python 3.11
 
 ### Python
 
